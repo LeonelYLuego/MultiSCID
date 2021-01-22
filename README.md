@@ -1,6 +1,6 @@
 # MultiSCID
 
-![](./Imagenes/Picture10.png)
+<img src="https://raw.githubusercontent.com/LeonelYLuego/MultiSCID/master/Imagenes/Picture10.png">
 
 > CBTis 168 Francisco I. Madero.
 >
@@ -76,7 +76,7 @@ __Entorno de desarrollo NetBeans.-__ NetBeans IDE es un entorno de desarrollo in
 
 La planeación se describe en la siguiente gráfica de Gantt.
 
-![](./Imagenes/picture1.png)
+<img src="https://raw.githubusercontent.com/LeonelYLuego/MultiSCID/master/Imagenes/Picture1.png">
 
 Tabla 1: Grafica de Gantt
 
@@ -111,7 +111,7 @@ Cuando el alumno registra una entrada o salida de la escuela, MultiSCID realiza 
 - Paso 3: Se envía un correo electrónico al padre o tutor registrado, notificando que el alumno acaba de entrar o de salir de la escuela.
 - Paso 4:  Se generarán estadísticas.
 
-![](./Imagenes/picture2.jpg)
+<img src="https://raw.githubusercontent.com/LeonelYLuego/MultiSCID/master/Imagenes/Picture2.jpg">
 
 Figura 1: Diseño general de MultiSCID Escuela 
 Fuente: Imagen propia
@@ -123,7 +123,7 @@ Cuando el alumno registra una entrada o salida de un libro de la biblioteca, Mul
 - Paso 1B: El sensor detecta algún accesorio del Kit MultiSCID que el alumno traiga consigo para su identificación.
 - Paso 2: Al detectar el ID del libro y del alumno, se registrará en la base de datos la hora exacta en que el libro es prestado o devuelto.
 
-![](./Imagenes/picture3.jpg)
+<img src="https://raw.githubusercontent.com/LeonelYLuego/MultiSCID/master/Imagenes/Picture3.jpg">
 
 Figura 2: Diseño general de MultiSCID Biblioteca
 Fuente: Imagen propia
@@ -132,7 +132,7 @@ Fuente: Imagen propia
 
 El sistema de software está programado con técnicas de programación basadas en objetos usando el lenguaje Java con entorno de desarrollo en NeatBeans. En el siguiente diagrama se muestra los módulos principales.
 
-![](./Imagenes/picture4.png)
+<img src="https://raw.githubusercontent.com/LeonelYLuego/MultiSCID/master/Imagenes/Picture4.png">
 
 Figura 3: Diagrama jerárquico funcional
 Fuente: Imagen Propia.
@@ -210,31 +210,31 @@ Fue posible diseñar un sistema computarizado que ayuda a incrementar la variabl
 
 Anexo 1: Diagrama E-R de MiltiSCID Escuela.
 
-![](./Imagenes/picture5.png)
+<img src="https://raw.githubusercontent.com/LeonelYLuego/MultiSCID/master/Imagenes/Picture5.png">
 
 Figura 4: Diagrama ER de MultiSCID Escuela
 
 Anexo 2: Diagrama de clases de MiltiSCID Escuela.
 
-![](./Imagenes/picture6.png)
+<img src="https://raw.githubusercontent.com/LeonelYLuego/MultiSCID/master/Imagenes/Picture6.png">
 
 Figura 5: Diagrama de clases  de MultiSCID Escuela
 
 Anexo 3: Diagrama E-R de MiltiSCID Biblioteca
 
-![](./Imagenes/picture7.png)
+<img src="https://raw.githubusercontent.com/LeonelYLuego/MultiSCID/master/Imagenes/Picture7.png">
 
 Figura 6: Diagrama ER de MultiSCID Biblioteca
 
 Anexo 4: Diagrama de clases de MiltiSCID Biblioteca.
 
-![](./Imagenes/picture8.png)
+<img src="https://raw.githubusercontent.com/LeonelYLuego/MultiSCID/master/Imagenes/Picture8.png">
 
 Figura 7: Diagrama de clases  de MultiSCID Biblioteca
 
 Anexo 5: Formato de encuesta contestada:
 
-![](./Imagenes/picture9.jpg)
+<img src="https://raw.githubusercontent.com/LeonelYLuego/MultiSCID/master/Imagenes/Picture9.jpg">
 
 Figura 8: Encuesta contestada
 
