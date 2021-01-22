@@ -8,7 +8,7 @@
 > - Alejandra Hernández Celestino
 > - Alma Stephania Ibarra Lozano
 > - Ángel Ibarra Viveros
-> - Bryan Josué López López
+> - Bryan Jossue Luevano García
 > - Ixchel López Santiago
 
 ## 1. INTRODUCCIÓN
